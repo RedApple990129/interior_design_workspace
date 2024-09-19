@@ -6,6 +6,24 @@
 
 **Live: [andriibabintsev.com](https://www.andriibabintsev.com/)**
 
+
+## How to install
+
+```
+# node version 17.3.0
+Download [Node.js](https://nodejs.org/en/download). Run this followed commands:
+
+# Install dependencies
+npm install
+
+# Run the local server at localhost:5173
+npm start
+
+# Build for production in the dist/ directory
+npm run build
+```
+
+
 In this project, I have created my workplace in 3D with numerous interactive objects. You can move the chair, open window, turn on the air conditioner, open book, play music, play the «Transfer it» game, and much more. Feel free to explore and interact with it!
 
 ## Interactive objects
@@ -33,19 +51,3 @@ Additionally, there is a small and enjoyable game included in the project. The g
 - Control panel: [Tweakpane](https://cocopon.github.io/tweakpane/)
 - All models (except the «Transfer it» game) are done with [Blender](https://www.blender.org/)
 - Inspired by [«My room in 3D» by Bruno Simon](https://my-room-in-3d.vercel.app/)
-
-## How to install
-
-```
-# node version 17.3.0
-Download [Node.js](https://nodejs.org/en/download). Run this followed commands:
-
-# Install dependencies
-npm install
-
-# Run the local server at localhost:5173
-npm start
-
-# Build for production in the dist/ directory
-npm run build
-```

@@ -1,4 +1,4 @@
-# My Interactive Workspace
+# Interactive Workspace
 
 <p align="center">
   <img src="./public/img/interia_design.png" />

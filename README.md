@@ -1,7 +1,7 @@
 # My Interactive Workspace
 
 <p align="center">
-  <img src="https://github.com/sunrisedev99/interia_design_threejs/assets/36459180/3ef10ed6-2d94-4834-8ca4-d81df48f5fc1" />
+  <img src="https://github.com/sunrisedev99/interia_design/public/img/interia_design.png" />
 </p>
 
 **Live: [andriibabintsev.com](https://www.andriibabintsev.com/)**
@@ -9,10 +9,6 @@
 In this project, I have created my workplace in 3D with numerous interactive objects. You can move the chair, open window, turn on the air conditioner, open book, play music, play the «Transfer it» game, and much more. Feel free to explore and interact with it!
 
 ## Interactive objects
-
-<p align="center">
-  <img src="https://github.com/sunrisedev99/interia_design_threejs/assets/36459180/c99ea9c2-b08c-4dd5-85fe-73697d675965" />
-</p>
 
 There are 14 active objects in this project. To highlight all the active objects, you can use the «Highlight active objects» button located in the control panel.
 For each object I tried to add some interesting interactions. Here are a few examples:
@@ -26,10 +22,6 @@ Furthermore, there is a control panel located in the top right corner. It provid
 
 ## Game «Transfer it»
 
-<p align="center">
-  <img src="https://github.com/sunrisedev99/interia_design_threejs/assets/36459180/d28e6ef6-bb01-4cde-8cc8-1f647ef59c0a" />
-</p>
-
 Additionally, there is a small and enjoyable game included in the project. The goal of the game is to correctly place furniture in their designated locations. Some levels feature a robot vacuum cleaner that you must avoid damaging. The controls are quite simple: either click on the screen or press the Spacebar or Enter key. Challenge yourself to complete all 10 levels!
 
 ## Some technical details and links
@@ -42,7 +34,7 @@ Additionally, there is a small and enjoyable game included in the project. The g
 - All models (except the «Transfer it» game) are done with [Blender](https://www.blender.org/)
 - Inspired by [«My room in 3D» by Bruno Simon](https://my-room-in-3d.vercel.app/)
 
-## Setup
+## How to install
 Download [Node.js](https://nodejs.org/en/download). Run this followed commands:
 
 ```

@@ -36,7 +36,7 @@ Additionally, there is a small and enjoyable game included in the project. The g
 
 ## How to install
 
-v17.3.0
+# node version 17.3.0
 Download [Node.js](https://nodejs.org/en/download). Run this followed commands:
 
 ```

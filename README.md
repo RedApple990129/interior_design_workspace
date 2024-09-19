@@ -1,7 +1,7 @@
 # My Interactive Workspace
 
 <p align="center">
-  <img src="https://github.com/sunrisedev99/interia_design_threejs/public/img/interia_design.png" />
+  <img src="https://github.com/sunrisedev99/interia_design_threejs/tree/main/public/img/interia_design.png" />
 </p>
 
 **Live: [andriibabintsev.com](https://www.andriibabintsev.com/)**

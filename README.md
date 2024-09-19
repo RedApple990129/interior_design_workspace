@@ -35,6 +35,8 @@ Additionally, there is a small and enjoyable game included in the project. The g
 - Inspired by [«My room in 3D» by Bruno Simon](https://my-room-in-3d.vercel.app/)
 
 ## How to install
+
+v17.3.0
 Download [Node.js](https://nodejs.org/en/download). Run this followed commands:
 
 ```
